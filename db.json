@@ -1,0 +1,10 @@
+{
+  "users":[
+    {"name":"Micheal", "age":23, "callsign":"leema"}, {"name":"John", "age":24, "callsign":"leema"}, 
+    {"name":"Matthew", "age":26, "callsign":"doggo"}
+  ],
+  "agents":[
+    {"name":"Peter", "age":23, "zone":"East-Africa"}, {"name":"James", "age":24, "zone":"North-America"},
+    {"name":"Luke", "age":26, "zone":"North-America"}, {"name":"Moses", "age":29, "zone":"Eastern-Europe"}
+  ]
+}
